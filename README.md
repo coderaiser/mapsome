@@ -2,7 +2,7 @@
 
 Find maped element of an array that will satisfy condition of some.
 
-[Map][mapURL] + [Some][someURL] + `early return of an element`;
+[Map][mapURL] + [Some][someURL] + `early return of an element`
 
 ## Install
 
