@@ -1,4 +1,4 @@
-# Mapsome [![License][LicenseIMGURL]][LicenseURL] [![NPM version][NPMIMGURL]][NPMURL] [![Dependency Status][DependencyStatusIMGURL]][DependencyStatusURL] [![Build Status][BuildStatusIMGURL]][BuildStatusURL]
+# Mapsome [![License][LicenseIMGURL]][LicenseURL] [![NPM version][NPMIMGURL]][NPMURL] [![Dependency Status][DependencyStatusIMGURL]][DependencyStatusURL] [![Build Status][BuildStatusIMGURL]][BuildStatusURL] [CoverageIMGURL][CoverageURL]
 
 Find maped element of an array that will satisfy condition of some.
 
@@ -94,3 +94,5 @@ MIT
 [someURL]:                  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/some
 [mapURL]:                   https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
 
+[CoverageURL]:              https://coveralls.io/github/coderaiser/mystery?branch=master
+[CoverageIMGURL]:           https://coveralls.io/repos/coderaiser/mystery/badge.svg?branch=master&service=github
