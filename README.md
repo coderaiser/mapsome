@@ -1,4 +1,4 @@
-# Mapsome [![License][LicenseIMGURL]][LicenseURL] [![NPM version][NPMIMGURL]][NPMURL] [![Dependency Status][DependencyStatusIMGURL]][DependencyStatusURL] [![Build Status][BuildStatusIMGURL]][BuildStatusURL] [CoverageIMGURL][CoverageURL]
+# Mapsome [![License][LicenseIMGURL]][LicenseURL] [![NPM version][NPMIMGURL]][NPMURL] [![Dependency Status][DependencyStatusIMGURL]][DependencyStatusURL] [![Build Status][BuildStatusIMGURL]][BuildStatusURL] [![Coverage][CoverageIMGURL]][CoverageURL]
 
 Find maped element of an array that will satisfy condition of some.
 
@@ -90,9 +90,8 @@ MIT
 [BuildStatusURL]:           https://travis-ci.org/coderaiser/mapsome  "Build Status"
 [DependencyStatusURL]:      https://gemnasium.com/coderaiser/mapsome "Dependency Status"
 [LicenseURL]:               https://tldrlegal.com/license/mit-license "MIT License"
+[CoverageURL]:              https://coveralls.io/github/coderaiser/mapsome?branch=master
+[CoverageIMGURL]:           https://coveralls.io/repos/coderaiser/mapsome/badge.svg?branch=master&service=github
 
 [someURL]:                  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/some
 [mapURL]:                   https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
-
-[CoverageURL]:              https://coveralls.io/github/coderaiser/mystery?branch=master
-[CoverageIMGURL]:           https://coveralls.io/repos/coderaiser/mystery/badge.svg?branch=master&service=github
