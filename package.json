@@ -47,7 +47,7 @@
     "browserify": "^14.0.0",
     "coveralls": "^2.11.9",
     "eslint": "^4.0.0",
-    "minify": "^2.0.9",
+    "minify": "^3.0.0",
     "mkdirp": "^0.5.1",
     "nyc": "^11.0.2",
     "redrun": "^5.0.1",
