@@ -50,7 +50,7 @@
     "minify": "^3.0.0",
     "mkdirp": "^0.5.1",
     "nyc": "^11.0.2",
-    "redrun": "^5.0.1",
+    "redrun": "^6.0.0",
     "tape": "^4.6.0"
   },
   "dependencies": {}
